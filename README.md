@@ -6,3 +6,7 @@
 <p align="center">
   <img src="https://github.com/shubhamkushwaha133/Automated-Car-parking-allocation-system/assets/110382194/9bb769c7-92c5-4e69-8776-24be37711945" width="1000" alt="accessibility text">
 </p>
+<br><br>
+------------------------------------------------Output--------------------------------------------------------------
+<img width="584" alt="Screenshot 2024-01-25 003832" src="https://github.com/shubhamkushwaha133/Automated-Car-parking-allocation-system/assets/110382194/cd642381-26b5-49f8-add1-c56458b8f918">
+<br><br>
