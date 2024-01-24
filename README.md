@@ -3,5 +3,5 @@
 <br> <br>
 -------------------------------------------------Proteus Simulation------------------------------------------------
 <br><br>
-![How to make Car Parking System using Arduino and lcd display](https://github.com/shubhamkushwaha133/Automated-Car-parking-allocation-system/assets/110382194/f7e1e2e6-2f88-43fd-b1ff-b35680aa32ed)
+
 <br><br>
