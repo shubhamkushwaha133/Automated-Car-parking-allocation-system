@@ -3,5 +3,5 @@
 <br> <br>
 -------------------------------------------------Proteus Simulation------------------------------------------------
 <br><br> 
-![Simulation 1](https://github.com/shubhamkushwaha133/Automated-Car-parking-allocation-system/assets/110382194/04790204-0eee-4941-a51c-df4069a170ea)
+<href="https://github.com/shubhamkushwaha133/Automated-Car-parking-allocation-system/assets/110382194/04790204-0eee-4941-a51c-df4069a170ea">
 <br><br>
